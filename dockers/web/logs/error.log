@@ -1,0 +1,13 @@
+2017/09/30 01:15:39 [warn] 34#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
+2017/09/30 01:19:23 [warn] 33#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
+2017/09/30 07:31:13 [warn] 31#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
+2017/09/30 07:31:13 [emerg] 31#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/09/30 07:32:24 [warn] 31#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
+2017/09/30 07:34:08 [warn] 31#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
+2017/09/30 07:34:08 [emerg] 31#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/09/30 07:35:50 [warn] 31#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
+2017/09/30 07:46:28 [warn] 31#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
+2017/09/30 07:50:55 [warn] 32#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
+2017/09/30 07:58:30 [warn] 31#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
+2017/09/30 07:58:30 [emerg] 31#0: bind() to 0.0.0.0:80 failed (13: Permission denied)
+2017/09/30 07:59:06 [warn] 31#0: the "user" directive makes sense only if the master process runs with super-user privileges, ignored in /opt/bitnami/nginx/conf/nginx.conf:6
